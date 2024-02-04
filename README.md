@@ -1,5 +1,5 @@
 # pipguitree
-## What is this library
+## What is this package
 This library visualizes the　dependencies of each python library.<br>
 You can easily check the dependencies of the libraries.<br>
 All you need to install libraries are
